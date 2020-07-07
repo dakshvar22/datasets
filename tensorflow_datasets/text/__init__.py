@@ -40,6 +40,7 @@ from tensorflow_datasets.text.movie_rationales import MovieRationales
 from tensorflow_datasets.text.multi_nli import MultiNLI
 from tensorflow_datasets.text.multi_nli_mismatch import MultiNLIMismatch
 from tensorflow_datasets.text.openbookqa import Openbookqa
+from tensorflow_datasets.text.paws import Paws
 from tensorflow_datasets.text.pg19 import Pg19
 from tensorflow_datasets.text.qa4mre import Qa4mre
 from tensorflow_datasets.text.reddit_disentanglement import RedditDisentanglement
